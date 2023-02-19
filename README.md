@@ -1,0 +1,8 @@
+Daftar-Biodata-Siswa
+==
+Daftar Biodata Dicoding Academy
+--
+*biodata siswa terdiri atas 3 angkatan*
+- angkatan 2019
+- angkatan 2020
+- angkatan 2021
